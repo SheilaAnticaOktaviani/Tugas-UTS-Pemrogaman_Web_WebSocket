@@ -34,5 +34,9 @@ Menjalankan Klien: Buka file index.html menggunakan browser (disarankan mengguna
 
 <img width="1390" height="445" alt="image" src="https://github.com/user-attachments/assets/c7df1b88-4891-4f44-8762-31927dcad2ab" />
 
+Referensi
+Fette, I. & Melnikov, A. (2011). RFC 6455: The WebSocket Protocol.
+MDN Web Docs. (2025). WebSocket API.
 
+Terima Kasih.
 
